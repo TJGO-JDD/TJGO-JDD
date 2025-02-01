@@ -88,6 +88,6 @@ I am passionate about **integrating artificial intelligence into civil engineeri
 
 
 -----
-Credits: [Josue Rojas Vega](https://github.com/JOSUERV99)
+Credits: [Ñol Ivan Juan de Dios rojas]([https://github.com/JOSUERV99](https://www.facebook.com/nolivan.juandediosrojas/))
 
-Last Edited on: 23/09/2021
+Last Edited on: 01/02/2025
