@@ -129,15 +129,15 @@ I am passionate about **integrating artificial intelligence into civil engineeri
 </div>
 <br>
 
-<!-- SUPPORT -->
-<hr>
+## 🤝 Support
+
+If you’d like to support my future projects and help me continue creating innovative tools and resources, please feel free to make a donation using the QR code below. Your contributions make a big difference, and I truly appreciate your support!
+
+<h3 align="center">YAPE: ÑOL IVAN JUAN DE DIOS ROJAS:</h3>
 <p>
-  <h3 align="center">Support:</h3>
-  <p>
-    <a href="https://www.facebook.com/nolivan.juandediosrojas/">
-      <img align="center" src="https://github.com/TJGO-JDD/TJGO-JDD.github.io/blob/main/assets/img/YAPE.jpeg" height="210" width="210" alt="josuerv99"/>
-    </a>
-  </p>
+  <a href="https://www.facebook.com/nolivan.juandediosrojas/">
+    <img align="center" src="https://github.com/TJGO-JDD/TJGO-JDD.github.io/blob/main/assets/img/YAPE.jpeg" height="210" width="210" alt="josuerv99"/>
+  </a>
 </p>
    
 <!-- GITHUB STATS -->
