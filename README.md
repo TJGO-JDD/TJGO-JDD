@@ -1,4 +1,4 @@
-  ![Welcome to my profile](https://github.com/JOSUERV99/JOSUERV99/blob/main/welcome.jpg?raw=true)
+  ![Welcome to my profile](https://github.com/TJGO-JDD/TJGO-JDD.github.io/blob/main/assets/img/PROFILE_PHOTO.jpg)
 
 <hr>
 <!-- MAIN PHRASE SECTION -->
