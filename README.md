@@ -49,7 +49,8 @@ I am passionate about **integrating artificial intelligence into civil engineeri
   <a href="https://www.latex-project.org/"><img src="https://raw.githubusercontent.com/TJGO-JDD/TJGO-JDD.github.io/main/assets/img/latex%20logo.png" width="12.5%" height="10%"></a>
 </p>
 
-## Proyectos *bombitas*
+## 🏗️ Main Projects
+
 <table>
 <tr>
 <td width="50%">
