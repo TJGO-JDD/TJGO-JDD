@@ -57,7 +57,7 @@ I am passionate about **integrating artificial intelligence into civil engineeri
   <h3 align="center">Support:</h3>
   <p>
     <a href="https://www.facebook.com/nolivan.juandediosrojas/">
-      <img align="center" src="https://github.com/TJGO-JDD/TJGO-JDD.github.io/blob/main/assets/img/YAPE.jpeg" height="50" width="210" alt="josuerv99"/>
+      <img align="center" src="https://github.com/TJGO-JDD/TJGO-JDD.github.io/blob/main/assets/img/YAPE.jpeg" height="210" width="210" alt="josuerv99"/>
     </a>
   </p>
 </p>
