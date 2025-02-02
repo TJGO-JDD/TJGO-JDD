@@ -56,7 +56,7 @@ I am passionate about **integrating artificial intelligence into civil engineeri
 <td width="50%">
 <h3 align="center">REPORTE AUTOMATICO DE DISTRIBUCIONES TEORICAS HIDROLOGIA (PYTHON - LATEX)</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://github.com/TJGO-JDD/TJGO-JDD.github.io/blob/main/assets/img/DE_1.png" width="400" alt="Curso básico android"></a>
+<a href="https://tjgo-jdd.github.io/" target="_blank"><img src="https://github.com/TJGO-JDD/TJGO-JDD.github.io/blob/main/assets/img/DE_1.png" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/TJGO-JDD/DISTRIBUCIONES-TEORICAS-PYTHON---LATEX" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -74,7 +74,7 @@ I am passionate about **integrating artificial intelligence into civil engineeri
                <br>
 <h3 align="center">REPORTE AUTOMATICO MEMORIA DE ESTUDIO DE TRAFICO Y CALCULO DE ESAL (PYTHON LATEX) - TRAFIX.v1</h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://github.com/TJGO-JDD/TJGO-JDD.github.io/blob/main/assets/img/TRAFIX6.png" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://tjgo-jdd.github.io/" target="_blank"><img src="https://github.com/TJGO-JDD/TJGO-JDD.github.io/blob/main/assets/img/TRAFIX6.png" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
 <a href="https://github.com/TJGO-JDD/TRAFIX_V1" target="_blank">
@@ -95,7 +95,7 @@ I am passionate about **integrating artificial intelligence into civil engineeri
 <td width="50%">
 <h3 align="center">PROGRAMA PARA EL DISEÑO DE ZAPATAS</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://github.com/TJGO-JDD/TJGO-JDD.github.io/blob/main/assets/img/ZAP2.png" width="400" alt="Curso intermedio Android"></a>
+<a href="https://tjgo-jdd.github.io/" target="_blank"><img src="https://github.com/TJGO-JDD/TJGO-JDD.github.io/blob/main/assets/img/ZAP2.png" width="400" alt="Curso intermedio Android"></a>
 <p>
 <a href="https://github.com/TJGO-JDD/ZAPATAS-HP-PRIME" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -112,7 +112,7 @@ I am passionate about **integrating artificial intelligence into civil engineeri
 <td width="50%">
 <h3 align="center">LINEAS DE INFLUENCIA PARA N TRAMOS</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://github.com/TJGO-JDD/TJGO-JDD.github.io/blob/main/assets/img/PG1.gif" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a href="https://tjgo-jdd.github.io/" target="_blank"><img src="https://github.com/TJGO-JDD/TJGO-JDD.github.io/blob/main/assets/img/PG1.gif" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
 <a href="https://github.com/TJGO-JDD/LineasDeInfluenciPython" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
