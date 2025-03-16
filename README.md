@@ -14,7 +14,7 @@ I am a **Bachelor of Science in Civil Engineering** with experience in preparing
 
 I am passionate about **integrating artificial intelligence into civil engineering** to develop **innovative and efficient solutions**. I am quick to learn and adapt to new technologies, and I thrive in team environments that promote collaboration and results.
 
-- 📫 How to reach me: **ivanjuandedios@gmail.com**  
+- 📫 How to reach me: **ivanjuandedios12@gmail.com**  
 
 
 
