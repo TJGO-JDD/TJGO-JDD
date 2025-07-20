@@ -97,7 +97,7 @@ I am passionate about **integrating artificial intelligence into civil engineeri
 <div align="center">
 <a href="https://www.youtube.com/watch?v=j5eDhB1-_nA&t=5s" target="_blank"><img src="https://github.com/TJGO-JDD/TJGO-JDD.github.io/blob/main/assets/img/ZAP2.png" width="400" alt="Curso intermedio Android"></a>
 <p>
-<a href="https://www.youtube.com/watch?v=j5eDhB1-_nA&t=5s" target="_blank">
+<a href="https://github.com/TJGO-JDD/ZAPATAS-HP-PRIME" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
 <a href="https://www.youtube.com/watch?v=j5eDhB1-_nA&t=5s" target="_blank">
