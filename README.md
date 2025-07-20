@@ -74,13 +74,13 @@ I am passionate about **integrating artificial intelligence into civil engineeri
                <br>
 <h3 align="center">REPORTE AUTOMATICO MEMORIA DE ESTUDIO DE TRAFICO Y CALCULO DE ESAL (PYTHON LATEX) - TRAFIX.v1</h3>
 <div align="center">                                       
-<a href="https://tjgo-jdd.github.io/" target="_blank"><img src="https://github.com/TJGO-JDD/TJGO-JDD.github.io/blob/main/assets/img/TRAFIX6.png" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://www.youtube.com/watch?v=xwltan8D0vo&t=1188s" target="_blank"><img src="https://github.com/TJGO-JDD/TJGO-JDD.github.io/blob/main/assets/img/TRAFIX6.png" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
 <a href="https://github.com/TJGO-JDD/TRAFIX_V1" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://www.youtube.com/@TJGO-JDD" target="_blank">
+<a href="https://www.youtube.com/watch?v=xwltan8D0vo&t=1188s" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
@@ -95,12 +95,12 @@ I am passionate about **integrating artificial intelligence into civil engineeri
 <td width="50%">
 <h3 align="center">PROGRAMA PARA EL DISEÑO DE ZAPATAS</h3>
 <div align="center">
-<a href="https://tjgo-jdd.github.io/" target="_blank"><img src="https://github.com/TJGO-JDD/TJGO-JDD.github.io/blob/main/assets/img/ZAP2.png" width="400" alt="Curso intermedio Android"></a>
+<a href="https://www.youtube.com/watch?v=j5eDhB1-_nA&t=5s" target="_blank"><img src="https://github.com/TJGO-JDD/TJGO-JDD.github.io/blob/main/assets/img/ZAP2.png" width="400" alt="Curso intermedio Android"></a>
 <p>
-<a href="https://github.com/TJGO-JDD/ZAPATAS-HP-PRIME" target="_blank">
+<a href="https://www.youtube.com/watch?v=j5eDhB1-_nA&t=5s" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="[https://www.youtube.com/watch?v=FDcYsOA_8RM](https://www.youtube.com/watch?v=j5eDhB1-_nA)" target="_blank">
+<a href="https://www.youtube.com/watch?v=j5eDhB1-_nA&t=5s" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
