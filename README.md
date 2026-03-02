@@ -71,6 +71,46 @@ I am passionate about **integrating artificial intelligence into civil engineeri
 </td>
 
 <td width="50%">
+<br>
+<h3 align="center">TJGO Bridge Tools | Plataforma Inteligente para Análisis de Puentes con Líneas de Influencia</h3>
+<div align="center">                                       
+<a href="https://www.youtube.com/watch?v=EFWqeuEuPJE&t=1450s" target="_blank"><img src="https://github.com/TJGO-JDD/TJGO-JDD.github.io/blob/main/assets/img/TRAFIX6.png" width="400" alt="Curso arquitectura MVVM"></a>
+<br>
+<p>
+<a href="https://tjgo-lineasdeinfluencia.streamlit.app/" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://www.youtube.com/watch?v=EFWqeuEuPJE&t=1450s" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+</a>
+</p>
+</p>Este programa gestiona datos de tráfico vehicular y calcula el ESAL en estudios viales. Facilita el análisis del impacto del tránsito y la durabilidad de las carreteras, permitiendo generar reportes técnicos en formato LaTeX.</p>
+</div>                                                             
+</table>                                                                                 
+</div>
+<br>
+
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">REPORTE AUTOMATICO DE DISTRIBUCIONES TEORICAS HIDROLOGIA (PYTHON - LATEX)</h3>
+<div align="center">
+<a href="[https://tjgo-jdd.github.io/](https://www.youtube.com/watch?v=3sJ0f7o6EIw&t=98s)" target="_blank"><img src="https://github.com/TJGO-JDD/TJGO-JDD.github.io/blob/main/assets/img/DE_1.png" width="400" alt="Curso básico android"></a>
+<p>
+<a href="https://github.com/TJGO-JDD/DISTRIBUCIONES-TEORICAS-PYTHON---LATEX" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://www.youtube.com/@TJGO-JDD" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>El script automatiza el análisis de datos históricos de precipitaciones, verificando su confiabilidad con la distribución de Weibull y validando los resultados mediante programas como Hidronomon e Hidroesta. Genera reportes técnicos con gráficos, tablas y análisis estadísticos, optimizando los estudios hidrológicos.</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
                <br>
 <h3 align="center">REPORTE AUTOMATICO MEMORIA DE ESTUDIO DE TRAFICO Y CALCULO DE ESAL (PYTHON LATEX) - TRAFIX.v1</h3>
 <div align="center">                                       
@@ -117,7 +157,7 @@ I am passionate about **integrating artificial intelligence into civil engineeri
 <a href="https://github.com/TJGO-JDD/LineasDeInfluenciPython" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://www.youtube.com/@TJGO-JDD" target="_blank">
+<a href="https://www.youtube.com/watch?v=EFWqeuEuPJE&t=1450s" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
 </a>
 </p>
