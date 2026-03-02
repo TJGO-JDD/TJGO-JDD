@@ -56,7 +56,7 @@ I am passionate about **integrating artificial intelligence into civil engineeri
 <td width="50%">
 <h3 align="center">REPORTE AUTOMATICO DE DISTRIBUCIONES TEORICAS HIDROLOGIA (PYTHON - LATEX)</h3>
 <div align="center">
-<a href="https://tjgo-jdd.github.io/" target="_blank"><img src="https://github.com/TJGO-JDD/TJGO-JDD.github.io/blob/main/assets/img/DE_1.png" width="400" alt="Curso básico android"></a>
+<a href="[https://tjgo-jdd.github.io/](https://www.youtube.com/watch?v=3sJ0f7o6EIw&t=98s)" target="_blank"><img src="https://github.com/TJGO-JDD/TJGO-JDD.github.io/blob/main/assets/img/DE_1.png" width="400" alt="Curso básico android"></a>
 <p>
 <a href="https://github.com/TJGO-JDD/DISTRIBUCIONES-TEORICAS-PYTHON---LATEX" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
