@@ -54,18 +54,18 @@ I am passionate about **integrating artificial intelligence into civil engineeri
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">REPORTE AUTOMATICO DE DISTRIBUCIONES TEORICAS HIDROLOGIA (PYTHON - LATEX)</h3>
+<h3 align="center">MAPS TJGO - PROGRAMA GRATIS PARA CREAR MAPAS DE UBICACIÓN AUTOMÁTICOS | EXPORTA MAPAS EN PDF Y PNG</h3>
 <div align="center">
-<a href="[https://tjgo-jdd.github.io/](https://www.youtube.com/watch?v=3sJ0f7o6EIw&t=98s)" target="_blank"><img src="https://github.com/TJGO-JDD/TJGO-JDD.github.io/blob/main/assets/img/DE_1.png" width="400" alt="Curso básico android"></a>
+<a href="[https://tjgo-jdd.github.io/](https://www.youtube.com/watch?v=3sJ0f7o6EIw&t=98s)" target="_blank"><img src="https://github.com/TJGO-JDD/TJGO-JDD.github.io/blob/main/assets/img/MAPS.png" width="400" alt="Curso básico android"></a>
 <p>
-<a href="https://github.com/TJGO-JDD/DISTRIBUCIONES-TEORICAS-PYTHON---LATEX" target="_blank">
-<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://api.whatsapp.com/send/?phone=51917726087&text=Deseo+informaci%C3%B3n+sobre%21+....&type=phone_number&app_absent=0" target="_blank">
+<img src="https://img.shields.io/badge/WhatsApp-25D366?logo=whatsapp&logoColor=fff&style=flat">
 </a>
-<a href="https://www.youtube.com/@TJGO-JDD" target="_blank">
+<a href="https://www.youtube.com/watch?v=lXRnJEgfEGs&t=511s" target="_blank">
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>El script automatiza el análisis de datos históricos de precipitaciones, verificando su confiabilidad con la distribución de Weibull y validando los resultados mediante programas como Hidronomon e Hidroesta. Genera reportes técnicos con gráficos, tablas y análisis estadísticos, optimizando los estudios hidrológicos.</p>
+<p>Este software permite generar mapas de ubicación departamental, provincial, distrital y específica de forma rápida y profesional, cargando archivos SHP y obteniendo resultados listos para presentar o imprimir.</p>
 </div>
                                                                                       
 </td>
@@ -74,7 +74,7 @@ I am passionate about **integrating artificial intelligence into civil engineeri
 <br>
 <h3 align="center">TJGO Bridge Tools | Plataforma Inteligente para Análisis de Puentes con Líneas de Influencia</h3>
 <div align="center">                                       
-<a href="https://www.youtube.com/watch?v=EFWqeuEuPJE&t=1450s" target="_blank"><img src="https://github.com/TJGO-JDD/TJGO-JDD.github.io/blob/main/assets/img/TRAFIX6.png" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://www.youtube.com/watch?v=EFWqeuEuPJE&t=1450s" target="_blank"><img src="https://github.com/TJGO-JDD/TJGO-JDD.github.io/blob/main/assets/img/BRIDGE.png" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
 <a href="https://tjgo-lineasdeinfluencia.streamlit.app/" target="_blank">
@@ -84,7 +84,9 @@ I am passionate about **integrating artificial intelligence into civil engineeri
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Este programa gestiona datos de tráfico vehicular y calcula el ESAL en estudios viales. Facilita el análisis del impacto del tránsito y la durabilidad de las carreteras, permitiendo generar reportes técnicos en formato LaTeX.</p>
+</p>TJGO Bridge Tools es una plataforma web desarrollada para el cálculo automático de líneas de influencia, momentos flectores, fuerzas cortantes y cargas de carril en puentes de uno o múltiples tramos.
+
+Esta herramienta está diseñada para ingenieros civiles, estudiantes de ingeniería estructural y proyectistas, con el objetivo de automatizar el análisis estructural, reducir tiempos de cálculo y mejorar la precisión en el diseño de puentes.</p>
 </div>                                                             
 </table>                                                                                 
 </div>
